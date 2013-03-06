@@ -6,3 +6,7 @@
 #endif
 
 #define VERSION "3.0.1"
+#define ENABLE_RTREE 1
+#define SQLITE_ENABLE_RTREE 1
+#define OMIT_PROJ 1
+#define OMIT_GEOS 1
